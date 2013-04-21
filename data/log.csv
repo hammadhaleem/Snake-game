@@ -10,3 +10,4 @@ Game Type,Level,Winer,Score,Rival,Score
 2player,2,Opponent,2,ComputerEngineer,-1
 2player,2,ComputerEngineer,0,Opponent,-1
 2player,2,Opponent,0,ComputerEngineer,-1
+1player,2, , ,Opponent,0
