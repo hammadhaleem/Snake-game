@@ -181,8 +181,8 @@ class run(object):
             
             display.update(scr.blit(bg,r,r))
            
-            display.update(scr.blit(f2.render('Md Adil Ansar',1,(200,200,200)),(200,450)))
-            display.update(scr.blit(f2.render('shootingstaradil@gmail.com',1,(200,200,200)),(205,470)))
+            display.update(scr.blit(f2.render('JMI-CS3rd',1,(200,200,200)),(200,450)))
+            display.update(scr.blit(f2.render('jmi.ac.in',1,(200,200,200)),(205,470)))
             display.update(scr.blit(f2.render('comfortably numb',1,(200,200,200)),(235,490)))
             
          #   scr.blit(background_main,(0,0))
